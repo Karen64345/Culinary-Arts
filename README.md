@@ -20,4 +20,4 @@
 ![about-us](https://github.com/user-attachments/assets/734d4e4e-59ee-4776-9d27-bc43f492ab60)
 
 <Strong><b>Live Website</b></Strong>
-https://karen64345.github.io/Culinary-Arts/index.html
+https://karen64345.github.io/Culinary-Arts/
